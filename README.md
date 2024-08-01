@@ -13,7 +13,6 @@ Je suis Yohann<br>Etudiant en Master en Data et IA<br>Passionné par le Dev, le 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohannkp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yohannkp&icon=0&color=0)](https://visitcount.itsvg.in)
 
 [![](https://visitcount.itsvg.in/api?id=Profile&label=Vues%20du%20profile&pretty=true)](https://visitcount.itsvg.in)
 
