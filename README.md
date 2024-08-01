@@ -15,4 +15,6 @@ Je suis Yohann<br>Etudiant en Master en Data et IA<br>Passionné par le Dev, le 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yohannkp&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=Profile&label=Vues%20du%20profile&pretty=true)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
