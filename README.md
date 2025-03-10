@@ -1,5 +1,5 @@
 # 💫 About Me:
-Je suis Yohann<br>Etudiant en Master en Data et IA<br>Passionné par le Dev, le sport, la musique et la lecture
+Je suis Yohann<br>Etudiant en Master en Data et IA<br>Passionné par le Dev,la Data, le sport, la musique et la lecture
 
 
 # 💻 Tech Stack:
