@@ -46,6 +46,12 @@ Je souhaite :
 - Travailler sur des **cas métiers concrets** à fort impact décisionnel
 
 ---
+## Guide pour mes projets
+Je vous ai fait un petit guide pour vous faciliter l'accès à mes différents projets :
+[Guide Portfolio Projets](https://github.com/Yohannkp/Portfolio-Guide)  
+
+---
+
 
 ## 📫 Me contacter
 
