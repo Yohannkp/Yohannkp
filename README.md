@@ -15,7 +15,7 @@ Certifié Google Advanced Data Analytics, je mets mes compétences au service de
 - **Langages** : Python (Pandas, NumPy, Seaborn, Scikit-learn, XGBoost), SQL avancé, JavaScript, Bash
 - **BI & visualisation** : Tableau, Power BI, Matplotlib, Streamlit
 - **Machine Learning** : régression, classification, clustering, métriques (F1, ROC, AUC), t-SNE, PCA
-- **Outils Data** : Jupyter, Git/GitHub, Google Sheets, Looker Studio
+- **Outils Data** : Jupyter, Git/GitHub, Google Sheets, Looker Studio, Excel
 - **DevOps & déploiement** : Docker, GitHub Actions, CI/CD, API FastAPI
 - **Soft Skills** : communication claire, vulgarisation, esprit analytique, autonomie, consulting data
 
