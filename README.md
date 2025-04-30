@@ -24,8 +24,8 @@ Certifié Google Advanced Data Analytics, je mets mes compétences au service de
 ## 📜 Certifications
 
 - ✅ [Google Advanced Data Analytics Professional Certificate](https://coursera.org/share/996430bde36afd3f6385cd27fa9251e4)
-- 📊 Microsoft Power BI (en cours)
-- 📁 IBM Data Analyst (prévu)
+- 📁 IBM Data Analyst (en cours)
+- 📊 Microsoft Power BI (prévu)
 - 🧠 Machine Learning Specialization – DeepLearning.AI (prévu)
 
 ---
