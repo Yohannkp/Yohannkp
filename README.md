@@ -1,5 +1,5 @@
 # A Propos de moi
-![Bannière](./bannere1.png)
+![Bannière](./banniere2.png)
 
 # 👋 Bonjour, je suis AHARH Yohann — Data Analyst & Futur Data Scientist
 
