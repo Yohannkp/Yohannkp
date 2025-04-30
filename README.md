@@ -1,5 +1,5 @@
 # A Propos de moi
-![Bannière](./assets/nom-de-ton-image.jpg)
+![Bannière](./bannere1.png)
 
 # 👋 Bonjour, je suis Yohann — Data Analyst & Futur Data Scientist
 
