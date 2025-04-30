@@ -21,18 +21,6 @@ Certifié Google Advanced Data Analytics, je mets mes compétences au service de
 
 ---
 
-## 📂 Projets clés (avec démos interactives)
-
-| Projet | Description | Lien |
-|--------|-------------|------|
-| 🧪 **A/B Testing sur landing page (200k+ users)** | Test de conversion + analyse statistique (Chi², T-test) | [💻 App Streamlit](https://tests-statistiques-landing-page-gxdfuncfjkpxm9kfyzvafu.streamlit.app/) • [📁 Code GitHub](https://github.com/Yohannkp/Tests-Statistiques-Landing-Page.git) |
-| 🧬 **Segmentation client & stratégie marketing** | Clustering ML avec visualisation t-SNE + recommandations | [💻 App Streamlit](https://analyse-marketing-zap5appepxyqkmjhtt3ovqi.streamlit.app/) • [📁 Code GitHub](https://github.com/Yohannkp/Analyse-Marketing.git) |
-| 👥 **Prédiction du Turnover employés (HR Analytics)** | Modèle de prédiction + déploiement API + application | [💻 App Streamlit](https://projet-salifort-motors-app.streamlit.app/) • [📁 Code GitHub](https://github.com/Yohannkp/Projet-Salifort-Motors..git) |
-| 🛍️ **Audit Data e-commerce local** | Analyse produit, retargeting & upsell via Tableau | *Projet confidentiel (visu sur demande)* |
-| 📦 **Veille concurrentielle automatisée** | Scraping + bot Python + notifications email | *Projet privé (code disponible sur demande)* |
-
----
-
 ## 📜 Certifications
 
 - ✅ [Google Advanced Data Analytics Professional Certificate](https://coursera.org/share/996430bde36afd3f6385cd27fa9251e4)
@@ -44,9 +32,9 @@ Certifié Google Advanced Data Analytics, je mets mes compétences au service de
 
 ## 🎓 Formation
 
-- 🎓 Master Big Data & Intelligence Artificielle – IPSSI Paris *(2024–2026)*
-- 🎓 Bachelor Dev Fullstack & DevOps – IPSSI *(2023–2024)*
-- 🎓 Bac+3 Génie Logiciel – Afrique *(obtenu)*
+- 🎓 Master Big Data & Intelligence Artificielle – IPSSI Paris *(2024–2027)*
+- 🎓 Bachelor Dev Fullstack & DevOps – IPSSI *(Obtenu : 2023–2024)*
+- 🎓 Bac+3 Génie Logiciel – Togo *(obtenu)*
 
 ---
 
