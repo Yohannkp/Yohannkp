@@ -1,3 +1,6 @@
+# A Propos de moi
+![Bannière](./assets/nom-de-ton-image.jpg)
+
 # 👋 Bonjour, je suis Yohann — Data Analyst & Futur Data Scientist
 
 🎯 Actuellement en Master 1 Big Data & IA , je combine une double expertise en **développement Fullstack / DevOps** et **analyse avancée des données**.  
