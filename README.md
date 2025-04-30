@@ -1,7 +1,7 @@
 # A Propos de moi
 ![Bannière](./bannere1.png)
 
-# 👋 Bonjour, je suis Yohann — Data Analyst & Futur Data Scientist
+# 👋 Bonjour, je suis AHARH Yohann — Data Analyst & Futur Data Scientist
 
 🎯 Actuellement en Master 1 Big Data & IA , je combine une double expertise en **développement Fullstack / DevOps** et **analyse avancée des données**.  
 Certifié Google Advanced Data Analytics, je mets mes compétences au service de la **visualisation, la prédiction et la prise de décision business**.
