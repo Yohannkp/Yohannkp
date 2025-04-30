@@ -1,4 +1,4 @@
-# A Propos de moi
+# 🙋🏿 A Propos de moi
 ![Bannière](./banniere2.png)
 
 # 👋 Bonjour, je suis Assiawassa Yendi plus communément appelé Yohann — Data Analyst & Futur Data Scientist
