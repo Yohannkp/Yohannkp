@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Yohann — Data Analyst & Futur Data Scientist
 
-🎯 Actuellement en Master 1 Big Data & IA à l'IPSSI, je combine une double expertise en **développement Fullstack / DevOps** et **analyse avancée des données**.  
+🎯 Actuellement en Master 1 Big Data & IA , je combine une double expertise en **développement Fullstack / DevOps** et **analyse avancée des données**.  
 Certifié Google Advanced Data Analytics, je mets mes compétences au service de la **visualisation, la prédiction et la prise de décision business**.
 
 📍 Basé à Paris — ouvert aux alternances (1 sem. école / 3 sem. entreprise) et missions Data en France ou à distance.
