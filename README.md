@@ -1,7 +1,7 @@
 # 🙋🏿 A Propos de moi
 ![Bannière](./banniere2.png)
 
-# 👋 Bonjour, je suis Assiawassa Yendi plus communément appelé Yohann — Data Analyst & Futur Data Scientist
+# 👋 Bonjour, je suis Yohann — Data Analyst & Futur Data Scientist
 
 🎯 Actuellement en Master Big Data & IA , je combine une double expertise en **développement Fullstack / DevOps** et **analyse avancée des données**.  
 Certifié Google Advanced Data Analytics, je mets mes compétences au service de la **visualisation, la prédiction et la prise de décision business**.
