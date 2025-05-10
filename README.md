@@ -61,7 +61,7 @@ Je vous ai fait un petit guide pour vous faciliter l'accès à mes différents p
 - 📧 yendiyohann@gmail.com  
 - 📞 06 45 86 35 33  
 - 💼 [LinkedIn](https://linkedin.com/in/yendi-aharh-a9b2992a8)  
-- 🌐 [Portfolio](https://yohannkp.github.io/portfolio/)  
+- 🌐 [Portfolio](https://www.datascienceportfol.io/yendiyohann)  
 - 🐙 [GitHub](https://github.com/Yohannkp)
 
 ---
