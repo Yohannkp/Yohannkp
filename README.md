@@ -27,8 +27,7 @@ Certifié Google Advanced Data Analytics, je mets mes compétences au service de
 - ✅ [Data Analysis & Visualization Foundations Specialization](https://www.credly.com/badges/f4d17383-ca2f-41ef-b96f-4ec67793c7b9/public_url)
 - ✅ [Databases and SQL for Data Science](https://www.credly.com/badges/e79047b5-a040-474e-bbac-a12a781a4e1f/public_url)
 - ✅ [Data Analysis with Python](https://www.credly.com/badges/13e0b9e8-eedf-4d96-95ae-b6dc42e4da21/public_url)
-- 📁 IBM Data Analyst (en cours)
-- 📊 Microsoft Power BI (prévu)
+- ✅ [IBM Data Analyst Professional Certificate](https://coursera.org/share/a5621fd86d60f201e5934276ce2cb519)
 - 🧠 Machine Learning Specialization – DeepLearning.AI (prévu)
 
 ---
