@@ -36,7 +36,7 @@ Certifié Google Advanced Data Analytics, je mets mes compétences au service de
 
 - 🎓 Master Big Data & Intelligence Artificielle – IPSSI Paris *(2024–2027)*
 - 🎓 Bachelor Dev Fullstack & DevOps – IPSSI *(Obtenu : 2023–2024)*
-- 🎓 Bac+3 Génie Logiciel – Togo *(obtenu)*
+- 🎓 Bac+3 Génie Logiciel – Togo *(obtenu: 2020-2023)*
 
 ---
 
