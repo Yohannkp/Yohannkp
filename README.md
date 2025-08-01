@@ -34,7 +34,8 @@ Certifié Google Advanced Data Analytics, je mets mes compétences au service de
 
 ## 🎓 Formation
 
-- 🎓 Master Big Data & Intelligence Artificielle – IPSSI Paris *(2024–2027)*
+- 🎓 Cycle Ingénieur Data et IA – ECE Paris *(2025–2028)*
+- 🎓 Master 1 Big Data & Intelligence Artificielle – IPSSI Paris *(2024–2025)*
 - 🎓 Bachelor Dev Fullstack & DevOps – IPSSI *(Obtenu : 2023–2024)*
 - 🎓 Bac+3 Génie Logiciel – Togo *(obtenu: 2020-2023)*
 
