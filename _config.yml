@@ -1,0 +1,43 @@
+# Fichier de configuration Jekyll (_config.yml)
+
+title: "Yohann — Data Analyst/Scientist"
+description: "Portfolio de Yohann, Data Analyst/Scientist basé à Paris. Compétences en Data, IA, Fullstack, DevOps, visualisation, prédiction et consulting."
+baseurl: "" # l'URL de base du site, ex: /blog
+url: "https://www.datascienceportfol.io/yendiyohann" # Portfolio principal
+
+# Auteur
+author:
+  name: "Yohann Yendi Aharh"
+  email: "yendiyohann@gmail.com"
+  linkedin: "https://www.linkedin.com/in/yendi-aharh-data-scientist-alternance-paris-contrat-apprentissage-dataanalyst-datascientist-data/"
+  github: "https://github.com/Yohannkp"
+
+# Paramètres de build
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclusions
+exclude:
+  - README.md
+  - banniere2.png
+
+# Langue
+lang: fr-FR
+
+# Certifications
+certifications:
+  - Google Advanced Data Analytics Professional Certificate
+  - Data Analysis & Visualization Foundations Specialization
+  - Databases and SQL for Data Science
+  - Data Analysis with Python
+  - IBM Data Analyst Professional Certificate
+  - Machine Learning Specialization – DeepLearning.AI (prévu)
+
+# Formation
+education:
+  - Cycle Ingénieur Data et IA – ECE Paris (2025–2028)
+  - Master 1 Big Data & Intelligence Artificielle – IPSSI Paris (2024–2025)
+  - Bachelor Dev Fullstack & DevOps – IPSSI (2023–2024)
+  - Bac+3 Génie Logiciel – Togo (2020–2023)
