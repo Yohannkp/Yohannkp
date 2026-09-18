@@ -27,7 +27,7 @@ reproductible. Deux stages en développement, dont un en Go sur un système déj
 ### Projets
 
 
-**[Mina-Translator](https://github.com/Yohannkp/Api-Fran-ais-a-Mina)** — traduction français ↔ mina par LLM affiné  
+**[Mina-Translator](https://github.com/Yohannkp/mina-translator)** — traduction français ↔ mina par LLM affiné  
 Qwen2-0.5B affiné en QLoRA 4 bits, chaîne Whisper → LLM → synthèse vocale. Corpus parallèle
 de 500+ paires FR-Mina construit à la main, complété par ~19 600 clips Common Voice validés,
 servi par une API FastAPI. Sur une langue peu dotée, la difficulté est la donnée, pas l'entraînement.
